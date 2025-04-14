@@ -5,3 +5,10 @@ DIY science projects kits.
 - Safe for kids
 - Easy to understand instructions
 - relevant learning materials included
+#The projects will include
+- A rover
+- Traffic light
+- mechanical hand?
+
+
+
